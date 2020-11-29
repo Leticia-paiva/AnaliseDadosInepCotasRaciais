@@ -1,0 +1,20 @@
+Tabela gerada pelo arquivo filter.py, atraves dos microdados do ensino superior, contendo os seguintes campos e valores.
+
+TP_CATEGORIA_ADMINISTRATIVA - 1 to 3 publica, 4 to 9 privada
+TP_TURNO (1-MATUTINO,2-VESPERTINO,3-NOTURNO,4-INTEGRAL)
+TP_GRAU_ACADEMICO 1.Bacharelado, 2.licenciatura,3.tecnologico,4. bacharelado e licenciatura
+TP_MODALIDADE_ENSINO - modalidade de ensino 1. presencial 2. curso a distancia
+TP_COR_RACA - 0. Aluno nao declarou 1. Branca 2. Preta 3.Parda 4.Amarela 5.Indigena 9. Nao tem informacao
+TP_SEXO - 1.feminino 2.masculino
+NU_IDADE 
+CO_UF_NASCIMENTO
+TP_SITUACAO - 2. CURSANDO 3.TRANCADO 4.DESVINCULADO 5.TRANSFERIDO 6.FORMADO 7.FALECIDO 
+IN_RESERVA_ETNICO - 0. nao 1 sim
+IN_RESERVA_ENSINO_PUBLICO - 0. NAO 1.SIM 
+IN_RESERVA_RENDA_FAMILIAR - 0. nao 1 sim
+IN_FINANCIAMENTO_ESTUDANTIL - 0. NAO 1.SIM
+IN_APOIO_SOCIAL - 0.nao 1.sim
+IN_ATIVIDADE_EXTRACURRICULAR - 0.nao 1.sim
+TP_ESCOLA_CONCLUSAO_ENS_MEDIO 1.Publica 2.Privada 9.nao dispoe 
+IN_CONCLUINTE -0. nao concluinte 1.concluinte
+
