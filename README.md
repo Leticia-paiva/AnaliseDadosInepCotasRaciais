@@ -31,7 +31,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 O csv gerado foi o **inep_dados.csv**.
 
-#Analise exploratoria dos dados
+# Analise exploratoria dos dados
 
 Utilizando o arquivo inep_dados.csv , através do **Google Colab**, foi possível construir gráficos comparativos utilizando python, pandas, plotly e demais bibliotecas.
 
