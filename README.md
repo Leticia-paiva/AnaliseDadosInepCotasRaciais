@@ -22,10 +22,28 @@ Os arquivos dos anos 2009 a 2016 estão com uma codificação diferente, por iss
 ```shell 
 iconv -f iso-8859-1 -t utf-8 ARQUIVO_DE_ENTRADA.CSV -o DM_ALUNO_ANO_utf8.CSV
 ```
-# Manipulação dos dados
+# Manipulação e preparação dos dados
 Os arquivos filtrados ainda têm uma extensão muito grande, desta forma foi utilizado a plataforma databricks : https://community.cloud.databricks.com/
+
 O script abaixo utiliza ferramentas do pySpark e foi utilizado para gerar um csv contendo as informações condensadas de 2009 a 2019:
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6182606293192259/3377624785629858/5332627302389073/latest.html
 
 O csv gerado foi o **inep_dados.csv**.
+
+#Analise exploratoria dos dados
+
+Utilizando o arquivo inep_dados.csv , através do **Google Colab**, foi possível construir gráficos comparativos utilizando python, pandas, plotly e demais bibliotecas.
+
+Através dos gráficos foi possível acompanhar o impacto das cotas no ensino superior, tentando mitigar a discrepância que há entre a composição étnica e racial da sociedade 
+
+brasileira e a presença de negros e pardos no ensino superior. 
+
+Foi possível analisar dados de 2009 a 2019, onde se pode observar o crescimento de negros e pardos na rede pública e privada, mas também um menor crescimento de alunos que 
+
+conseguem concluir a universidade. Também foi analisado a concentração de alunos que concluíram o ensino médio em escolas públicas e ingressaram na universidade,
+
+mostrando que a diferença etcnica ainda é muito discrepante, mesmo em um grupo que provavelmente pertence na mesma classe social.
+Ainda estamos muito longe de uma igualdade, mas o progresso é importante. 
+
+
