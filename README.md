@@ -35,6 +35,8 @@ O csv gerado foi o **inep_dados.csv**.
 
 Utilizando o arquivo inep_dados.csv , através do **Google Colab**, foi possível construir gráficos comparativos utilizando python, pandas, plotly e demais bibliotecas.
 
+https://colab.research.google.com/drive/1HAce4nBYZixKiuypO6Exc9A8OcKxHX-p?usp=sharing
+
 Através dos gráficos foi possível acompanhar o impacto das cotas no ensino superior, tentando mitigar a discrepância que há entre a composição étnica e racial da sociedade 
 
 brasileira e a presença de negros e pardos no ensino superior. 
