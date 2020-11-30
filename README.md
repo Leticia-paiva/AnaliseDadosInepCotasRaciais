@@ -38,14 +38,12 @@ Utilizando o arquivo inep_dados.csv , através do **Google Colab**, foi possíve
 https://colab.research.google.com/drive/1HAce4nBYZixKiuypO6Exc9A8OcKxHX-p?usp=sharing
 
 Através dos gráficos foi possível acompanhar o impacto das cotas no ensino superior, tentando mitigar a discrepância que há entre a composição étnica e racial da sociedade 
-
 brasileira e a presença de negros e pardos no ensino superior. 
 
 Foi possível analisar dados de 2009 a 2019, onde se pode observar o crescimento de negros e pardos na rede pública e privada, mas também um menor crescimento de alunos que 
-
 conseguem concluir a universidade. Também foi analisado a concentração de alunos que concluíram o ensino médio em escolas públicas e ingressaram na universidade,
-
 mostrando que a diferença etcnica ainda é muito discrepante, mesmo em um grupo que provavelmente pertence na mesma classe social.
+
 Ainda estamos muito longe de uma igualdade, mas o progresso é importante. 
 
 
